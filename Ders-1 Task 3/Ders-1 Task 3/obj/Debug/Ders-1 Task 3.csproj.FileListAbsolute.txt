@@ -1,0 +1,7 @@
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\bin\Debug\Ders-1 Task 3.exe.config
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\bin\Debug\Ders-1 Task 3.exe
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\bin\Debug\Ders-1 Task 3.pdb
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\obj\Debug\Ders-1 Task 3.csproj.AssemblyReference.cache
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\obj\Debug\Ders-1 Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\obj\Debug\Ders-1 Task 3.exe
+C:\Users\Baku\source\c#\Ders-1 Task 3\Ders-1 Task 3\obj\Debug\Ders-1 Task 3.pdb
