@@ -1,0 +1,7 @@
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\bin\Debug\Ders-2 Task 7.exe.config
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\bin\Debug\Ders-2 Task 7.exe
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\bin\Debug\Ders-2 Task 7.pdb
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\obj\Debug\Ders-2 Task 7.csproj.AssemblyReference.cache
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\obj\Debug\Ders-2 Task 7.csproj.CoreCompileInputs.cache
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\obj\Debug\Ders-2 Task 7.exe
+C:\Users\Baku\source\c#\Ders-2 Task 7\Ders-2 Task 7\obj\Debug\Ders-2 Task 7.pdb
