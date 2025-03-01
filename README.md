@@ -1,4 +1,4 @@
-# C-Telim
+<h1># C-Telim </h1>
 <b>What is C# ?</b> <br>
 1.C# kodu anlaşılan dildən kompüterin başa düşəcəyi formata çevrilir. Bu prosesi C# Compiler (CSC.exe) həyata keçirir.
 Yəni, C# kodu birbaşa maşın koduna çevrilmir, əvvəlcə ortaq bir dilə Intermediate Language (IL) tərtib edilir.
