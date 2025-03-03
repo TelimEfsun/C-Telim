@@ -17,20 +17,20 @@ namespace Ders_2_Task_1
 
             switch (score / 10)
             {
-                case 1:
-                case 2:
+                case 10:
+                case 9:
                     Console.WriteLine("Qiymet A");
                     break;
-                case 3:
+                case 8:
                     Console.WriteLine("Qiymet B");
                     break;
-                case 4:
+                case 7:
                     Console.WriteLine("Qiymet C");
                     break;
-                case 5:
+                case 6:
                     Console.WriteLine("Qiymet D");
                     break;
-                case 6:
+                case 5:
                     Console.WriteLine("Qiymet E");
                     break;
                 default:
