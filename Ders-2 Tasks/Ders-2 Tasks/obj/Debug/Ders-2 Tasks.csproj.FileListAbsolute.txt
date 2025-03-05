@@ -1,7 +1,0 @@
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\bin\Debug\Ders-2 Tasks.exe.config
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\bin\Debug\Ders-2 Tasks.exe
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\bin\Debug\Ders-2 Tasks.pdb
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\obj\Debug\Ders-2 Tasks.csproj.AssemblyReference.cache
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\obj\Debug\Ders-2 Tasks.csproj.CoreCompileInputs.cache
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\obj\Debug\Ders-2 Tasks.exe
-C:\Users\Baku\source\repos\Ders-2 Tasks\Ders-2 Tasks\obj\Debug\Ders-2 Tasks.pdb
