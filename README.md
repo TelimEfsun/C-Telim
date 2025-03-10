@@ -6,7 +6,7 @@ IL kodu C# və digər .NET dilləri (F#, VB.NET və s.) üçün ortaq bir format
 3. Sonda proqram işləyir və nəticəni göstərir. <br>
 Proqramlaşdırma və kompüter sistemlərində bütün məlumatlar 0 və 1 kimi saxlanılır.
 
-<h1>Stack and Heap</h1>
+<h3>Stack and Heap</h3>
 Value tiplər stack yaddaşda saxlanılır ve biri dəyişdikdə digəri dəyişmir LIFO (Last in First out) prinsipi ilə işləyir. <br>
 Referans tiplər isə Stack və Heapdə saxlanılır. Biri dəyişdikdə digəridə dəyişir.
 <h1>Array</h1>
