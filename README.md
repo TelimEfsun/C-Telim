@@ -33,5 +33,10 @@ UnBoxing prosesində Objecti Value tipe çecirmeden əvvəl Array[0] elementi İ
  double -> float -> long -> int -> char
 
  <h2>Generics and non Generics</h2>
+ HashTable -- Tip anlayışı yoxdur <br>
+ Dictionary -- Tip anlayışı var <br>
+ SortedList -- kiçikdən böyükə siralama verir. <br>
+ Stack -- Push, Pop. LİFO prinsipi ile işleyir <br>
+ Queue -- Enqueue, Dequeue. FİFO prinsipi ilə işləyir.
 
 
