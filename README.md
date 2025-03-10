@@ -15,5 +15,11 @@ ArrayList dinamik ölçüyə malikdir, tip anlayışı yoxdur və Add, Remove et
 List
 
 <h2>Boxing, UnBoxing</h2>
+Value tipin Objekt yaxud Referans tipe çevrilməsi Boxingdir. <br>
+Əksi isə UnBoxingdir.
+UnBoxingde prosesinde Objecti Value tipe çecirmeden əvvəl Array[0] elementi İnt-ə çevrilə bilib bilmədiyini yoxla, <br>
+Əks halda İf (Array[0] is int)
+{
+}
 
 
