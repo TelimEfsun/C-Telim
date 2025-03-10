@@ -10,8 +10,8 @@ Proqramlaşdırma və kompüter sistemlərində bütün məlumatlar 0 və 1 kimi
 Value tiplər stack yaddaşda saxlanılır ve biri dəyişdikdə digəri dəyişmir LIFO (Last in First out) prinsipi ilə işləyir. <br>
 Referans tiplər isə Stack və Heapdə saxlanılır. Biri dəyişdikdə digəridə dəyişir.
 <h1>Array</h1>
-Array statik ölçüyə malikdir, tip anlayışı var və Add, Remove etmək olmur.
-ArrayList dinamik ölçüyə malikdir, tip anlayışı yoxdur və Add, Remove etmək olur.
+Array statik ölçüyə malikdir, tip anlayışı var və Add, Remove etmək olmur. <br>
+ArrayList dinamik ölçüyə malikdir, tip anlayışı yoxdur və Add, Remove etmək olur. <br>
 List
 
 
