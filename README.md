@@ -25,4 +25,11 @@ UnBoxing prosesində Objecti Value tipe çecirmeden əvvəl Array[0] elementi İ
    Console.WritLine(x);             <br>
 }
 
+<h2>Casting</h2>
+ Value typelar arasinda gedir <br>
+ Implicit Casting (avtomatik olaraq) - daha kiçik bir tipi daha böyük tip
+ ölçüsünə çevirmək. char -> int -> long -> float -> double. <br>
+ Explicit Casting (əl ilə) - daha böyük tipi daha kiçik ölçülü tipə çevirmək.
+ double -> float -> long -> int -> char
+
 
