@@ -12,7 +12,7 @@ Referans tiplər isə Stack və Heapdə saxlanılır. Biri dəyişdikdə digəri
 <h2>Array</h2>
 Array statik ölçüyə malikdir, tip anlayışı var və Add, Remove etmək olmur. <br>
 ArrayList dinamik ölçüyə malikdir, tip anlayışı yoxdur və Add, Remove etmək olur. <br>
-List
+List: List<T> ad = new List<T>() Statik ölçü deyil, Tip anlayışı var və Add, Remove etmək olur.
 
 <h2>Boxing, UnBoxing</h2>
 Value tipin Objekt yaxud Referans tipe çevrilməsi Boxingdir. <br>
@@ -31,5 +31,7 @@ UnBoxing prosesində Objecti Value tipe çecirmeden əvvəl Array[0] elementi İ
  ölçüsünə çevirmək. char -> int -> long -> float -> double. <br>
  Explicit Casting (əl ilə) - daha böyük tipi daha kiçik ölçülü tipə çevirmək.
  double -> float -> long -> int -> char
+
+ <h2>Generics and non Generics</h2>
 
 
