@@ -18,7 +18,8 @@ List
 Value tipin Objekt yaxud Referans tipe çevrilməsi Boxingdir. <br>
 Əksi isə UnBoxingdir.
 UnBoxingde prosesinde Objecti Value tipe çecirmeden əvvəl Array[0] elementi İnt-ə çevrilə bilib bilmədiyini yoxla, <br>
-Əks halda İf (Array[0] is int)<br>
+Əks halda <br>
+İf (Array[0] is int)<br>
 {              <br>
    int x = (int)Array[0];           <br>
    Console.WritLine(x);             <br>
