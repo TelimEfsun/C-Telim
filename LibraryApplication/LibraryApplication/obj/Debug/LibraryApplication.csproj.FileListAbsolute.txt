@@ -1,0 +1,10 @@
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.AssemblyReference.cache
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.cache
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\Baku\source\Windows Forms App .Net Framework\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
