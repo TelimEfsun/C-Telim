@@ -17,7 +17,7 @@ List: List<T> ad = new List<T>() Statik ölçü deyil, Tip anlayışı var və A
 <h2>Boxing, UnBoxing</h2>
 Value tipin Objekt yaxud Referans tipe çevrilməsi Boxingdir. <br>
 Əksi isə UnBoxingdir.
-UnBoxing prosesində Objecti Value tipe çecirmeden əvvəl Array[0] elementi İnt-ə çevrilə bilib bilmədiyini yoxla, <br>
+UnBoxing prosesində Objecti Value tipe çevirmeden əvvəl Array[0] elementi İnt-ə çevrilə bilib bilmədiyini yoxla, <br>
 Əks halda <br>
 İf (Array[0] is int)<br>
 {              <br>
