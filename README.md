@@ -39,4 +39,14 @@ UnBoxing prosesində Objecti Value tipe çevirmeden əvvəl Array[0] elementi İ
  Stack -- Push, Pop. LİFO prinsipi ile işleyir <br>
  Queue -- Enqueue, Dequeue. FİFO prinsipi ilə işləyir.
 
+ <h2>Methods</h2> <br>
+
+ C#-da methodlar bir sinif (class) daxilində müəyyən əməliyyatları yerinə yetirmək üçün istifadə <br>
+ olunan funksiyalardır. Metodlar kodun təkrar istifadəsini, oxunaqlılığını və  <br>
+ təmin edir. <br>
+ C#-da metodlar bir neçə növə bölünür: <br>
+ Geri dəyər qaytaran metod: Bir nəticə hesablayıb qaytarır. <br>
+ Geri dəyər qaytarmayan metod (void): Heç bir nəticə qaytarmır, sadəcə bir əməliyyatı yerinə <br>
+ yetirir. <br>
+
 
