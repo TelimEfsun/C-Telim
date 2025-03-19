@@ -59,4 +59,21 @@ UnBoxing prosesində Objecti Value tipe çevirmeden əvvəl Array[0] elementi İ
  Konstruktorlar obyekt yaradıldıqda avtomatik işləyən xüsusi metodlardır. Sinifin adını daşıyır və <br>
  geri dəyər qaytarmır. Parametrlerin mecburi daxil edilmesi ucun lazimdir.
 
+<h2>Inhertance</h2>
+Dilimizə “Törəmə” “Miras almaq” kimi tərcümə edilən Inheritance obyekt yönümlü proqramlaşdırmanın ən vacib <br>
+xüsusiyyətlərindən  biridir. Bu bizə icazə verir ki, bir sinfin xüsusiyyətləri başqa bir sinif tərəfindən <br>
+istifadə edilə bilsin. Biz yazmasaq da C#-da yaradacağımız istər value type, istər reference type-lar object classından <br> törəyir. Ana class Base ondan töreyen classlar ise Derived classlar adlanır.Base classların instanceni yaratmamaq <br>
+ücün “abstract” açar sözündən istifadə edilir  abstract classların instance-ni(new ilə) yaratmaq olmur. <br>
+Base classın constructor-nu derived classlarda çağıra bilərik. Bunun üçün derived classın constructorunun <br>
+qarşısında “:base”açar sözündən istifadə olunur. Constructor-un məqsədi obyekt yaradılan zaman məcburi <br>
+parametrlərin göndərilməsidir. <br>
 
+Base class-da olan methodu derived classda implement etməsək belə default olaraq bütün derived classlarda da olur. <br>
+Bəzən base classda olan methodun derived classda fərqli cür həyata keçirilməsi üçün “virtual” açar sözündən <br>
+istifadə edirik. Base classda “virtual” olaraq elan etdiyimiz methodu, derived classda “override”açar sözün ilə yazırıq.<br>
+Əgər base classda yaradacağımız methodun body-si olmayacaqsa bu zaman methodun qarşısında “abstract” açar <br>
+sözündən istifadə edirik. Həmin bu method derived classda override olunmuş şəkildə mütləq implement olmalıdır. <br>
+
+Sealed class-lardan hec bir class törəyə bilməz! Əgər sealed classın daxilində virtual method yaratsaq bu zaman <br>
+compile-time errorla qarşılaşacağıq. Çünki bu sealed class törəmir, virtual method isə törəyən classların methodunu <br>
+override etmək üçün istifadə edilir.
