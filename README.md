@@ -49,4 +49,14 @@ UnBoxing prosesində Objecti Value tipe çevirmeden əvvəl Array[0] elementi İ
  Geri dəyər qaytarmayan metod (void): Heç bir nəticə qaytarmır, sadəcə bir əməliyyatı yerinə <br>
  yetirir. <br>
 
+ <h2>Class</h2>
+ C#-da class (sinif) obyekt yönümlü proqramlaşdırmanın (OOP - Object-Oriented Programming) <br>
+ əsas elementlərindən biridir. Sinif, obyektlərin xüsusiyyətlərini (fields, properties) və <br>
+ davranışlarını (methods) müəyyən edən bir şablondur (template). Yəni, siniflər real dünya <br>
+ obyektlərini modelləşdirmək üçün istifadə olunur. <br>
+
+ <h2>Constructors</h2>
+ Konstruktorlar obyekt yaradıldıqda avtomatik işləyən xüsusi metodlardır. Sinifin adını daşıyır və <br>
+ geri dəyər qaytarmır. Parametrlerin mecburi daxil edilmesi ucun lazimdir.
+
 
