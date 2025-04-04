@@ -77,3 +77,11 @@ sözündən istifadə edirik. Həmin bu method derived classda override olunmuş
 Sealed class-lardan hec bir class törəyə bilməz! Əgər sealed classın daxilində virtual method yaratsaq bu zaman <br>
 compile-time errorla qarşılaşacağıq. Çünki bu sealed class törəmir, virtual method isə törəyən classların methodunu <br>
 override etmək üçün istifadə edilir.
+
+<h2>Encapsulation</h2>
+Məqsəd: Məlumatların birbaşa istifadəçi tərəfindən dəyişdirilməsinin qarşısını almaq, təhlükəsizlik təmin etmək. <br>
+
+<h2>Polymorphism</h2>
+2 cur olur static dinamic <br>
+Dinamik... Virtual Ovveride <br>
+Static... Return type ve parametr sayina gore
