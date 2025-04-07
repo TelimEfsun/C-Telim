@@ -1,0 +1,7 @@
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\obj\Debug\Ders 9 Task 1.csproj.AssemblyReference.cache
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\obj\Debug\Ders 9 Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Baku\source\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
